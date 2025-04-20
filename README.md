@@ -5,6 +5,8 @@
 ### **Project Level**:
 Master’s level — Advanced deep learning and data mining project in the field of **Predictive Maintenance (PdM)** and **Cyber-Physical Systems (CPS)**.
 
+*You may find the report of the project under the name "Hybrid-CNN-LSTM-RUL-Prediction-Health-Condition-Classification_ Solouki.PDF"*
+
 ---
 
 ### **Project Highlights**
@@ -28,7 +30,6 @@ To design and implement a **multi-task hybrid deep learning model** that utilize
 ### **Project Description**
 The project focuses on predictive maintenance, a critical element in Industry 4.0, by addressing the challenge of predicting the degradation and failure time of mechanical systems. Specifically, it targets **cyber-physical systems**, where sensors continuously monitor system health.
 
-*You may find the report of the project under the name "Hybrid-CNN-LSTM-RUL-Prediction-Health-Condition-Classification_ Solouki.PDF"*
 
 The **C-MAPSS dataset**, collected from a simulation of turbofan engine degradation, includes multivariate time-series sensor readings from multiple engines under different operating conditions and fault modes. The dataset contains:
 - Full-run-to-failure engine records (training set)
