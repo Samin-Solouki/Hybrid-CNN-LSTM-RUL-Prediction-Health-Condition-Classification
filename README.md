@@ -1,5 +1,9 @@
 # Hybrid-CNN-LSTM-RUL-Prediction-Health-Condition-Classification
 ## **Hybrid CNN-LSTM Deep Learning Architecture for RUL Prediction and Health Condition Classification of Turbofan Engines**
+---
+
+### **Project Level**:
+Master’s level — Advanced deep learning and data mining project in the field of **Predictive Maintenance (PdM)** and **Cyber-Physical Systems (CPS)**.
 
 ---
 
@@ -14,11 +18,6 @@
 
 ---
 
-### **Project Level**:
-Master’s level — Advanced deep learning and data mining project in the field of **Predictive Maintenance (PdM)** and **Cyber-Physical Systems (CPS)**.
-
----
-
 ### **Project Goal**
 To design and implement a **multi-task hybrid deep learning model** that utilizes the strengths of CNNs in spatial feature extraction and LSTMs in modeling long-term temporal dependencies, aimed at:
 - **Predicting the Remaining Useful Life (RUL)** of aircraft turbofan engines.
@@ -29,7 +28,7 @@ To design and implement a **multi-task hybrid deep learning model** that utilize
 ### **Project Description**
 The project focuses on predictive maintenance, a critical element in Industry 4.0, by addressing the challenge of predicting the degradation and failure time of mechanical systems. Specifically, it targets **cyber-physical systems**, where sensors continuously monitor system health.
 
-*You may find the report of the project under the name "Classification of Alzheimer's Disease (AD) and Mild Cognitive Impairment (MCI) using MRI Images_ Solouki.PDF"*
+*You may find the report of the project under the name "Hybrid-CNN-LSTM-RUL-Prediction-Health-Condition-Classification_ Solouki.PDF"*
 
 The **C-MAPSS dataset**, collected from a simulation of turbofan engine degradation, includes multivariate time-series sensor readings from multiple engines under different operating conditions and fault modes. The dataset contains:
 - Full-run-to-failure engine records (training set)
